@@ -1,0 +1,21 @@
+{
+  "name": "multiplicar",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniellms96/multiplicar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniellms96/multiplicar/issues"
+  },
+  "homepage": "https://github.com/daniellms96/multiplicar#readme",
+  "description": ""
+}
